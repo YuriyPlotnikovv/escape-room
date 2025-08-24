@@ -1,0 +1,95 @@
+{
+  "id": 14,
+  "title-ru": "Escape Room",
+  "title-en": "Escape Room",
+  "textFirst-ru": "Сложный проект на ReactJS и TypeScript",
+  "textFirst-en": "Hard project on ReactJS ans TypeScript",
+  "textSecond-ru": "Экзаменационный учебный проект, разработан в рамках курса JavaScript-разработчик от HTML Academy. Проект на разработку сложной клиентской логики с помощью ReactJS и TypeScript.",
+  "textSecond-en": "Exam training project, developed as part of the JavaScript Developer course from HTML Academy. The project focuses on implementing complex client-side logic using ReactJS and TypeScript.",
+  "deploy": "https://escape-room-training.netlify.app/",
+  "features": [
+    {
+      "name-ru": "Дата разработки",
+      "name-en": "Development date",
+      "description-ru": [
+        "Август 2025"
+      ],
+      "description-en": [
+        "August 2025"
+      ]
+    },
+    {
+      "name-ru": "Страницы",
+      "name-en": "Pages",
+      "description-ru": [
+        "Главная",
+        "Контакты",
+        "Логин",
+        "Мои бронирования",
+        "Детальная квеста",
+        "Бронирование квеста"
+      ],
+      "description-en": [
+        "Home",
+        "Contacts",
+        "Login",
+        "My bookings",
+        "Quest details",
+        "Quest booking"
+      ]
+    },
+    {
+      "name-ru": "Функциональность",
+      "name-en": "Functionality",
+      "description-ru": [
+        "Интеграция с сервером",
+        "Авторизация пользователя",
+        "Интерактивная карта Leaflet",
+        "Бронирование и отмена квестов"
+      ],
+      "description-en": [
+        "Server integration",
+        "User authorization",
+        "Interactive Leaflet map",
+        "Quest booking and cancellation"
+      ]
+    },
+    {
+      "name-ru": "Не реализовано",
+      "name-en": "Not Implemented",
+      "description-ru": [
+        "Адаптивность под разные устройства"
+      ],
+      "description-en": [
+        "Adaptability to different devices"
+      ]
+    }
+  ],
+  "technologies": [
+    {
+      "name": "React",
+      "icon": "icon-react",
+      "link": "https://react.dev/"
+    },
+    {
+      "name": "Redux",
+      "icon": "icon-redux",
+      "link": "https://react-redux.js.org/"
+    },
+    {
+      "name": "HTML",
+      "icon": "icon-html",
+      "link": "https://html.spec.whatwg.org/multipage/"
+    },
+    {
+      "name": "CSS",
+      "icon": "icon-css",
+      "link": "https://www.w3.org/Style/CSS/"
+    },
+    {
+      "name": "TypeScript",
+      "icon": "icon-ts",
+      "link": "https://www.typescriptlang.org/"
+    }
+  ]
+}

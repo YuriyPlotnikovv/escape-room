@@ -7,6 +7,6 @@
 * React Hooks, React Router, React Redux
 * сборка через CRA
 ---
-Деплой проекта: https://escape-room-training.netlify.app/
+Деплой проекта: https://escape-room-training.yp-projects.ru/
 ---
 Экзаменационный проект в рамках курса JavaScript-разработчик от HTML Academy
